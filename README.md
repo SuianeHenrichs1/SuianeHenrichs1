@@ -1,7 +1,3 @@
-<img align="right" height="555" src="https://i.imgur.com/tEdMnVZ.jpg"  />
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/suianehenrichs/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -20,7 +16,14 @@
 
 ###
 
-<h3 align="center">💜  A Little About Me</h3>
+<h2 align="center">💜  A Little About Me</h2>
+
+###
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BC47F7&background=FF56FF00&center=true&width=435&lines=Aspiring+Full-Stack+Developer+%F0%9F%9A%80)](https://git.io/typing-svg)
+<div align="center">
+  <img height="200" src="https://i.imgur.com/ck6HMiy.jpg"  />
+</div>
 
 ###
 
@@ -28,7 +31,7 @@
 
 ###
 
-<h3 align="center">🛠 Language and tools</h3>
+<h2 align="center">🛠 Language and tools</h2>
 
 ###
 
@@ -39,11 +42,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
