@@ -34,11 +34,11 @@
 
 ## 👋 Olá, eu sou a Suiane Henrichs!  
 
-🌍 Sou do Rio de Janeiro, Brasil.  
-🎓 Estudante de **Sistemas de Informação**.  
-⚡ Aspirante a **Desenvolvedora Full-Stack**, com interesse também em **Desenvolvimento de Software**.  
-🎯 Focada em **HTML, CSS, JavaScript, Python, Git e Web Development**.  
-✨ Criando projetos para aprimorar minhas habilidades e compartilhar minha jornada.  
+🌍 Sou do Rio de Janeiro, Brasil  
+🎓 Estudante de **Sistemas de Informação**  
+⚡ Aspirante a **Desenvolvedora Full-Stack**, com interesse também em **Desenvolvimento de Software**  
+🎯 Focada em **HTML, CSS, JavaScript, Python, Git e Web Development**  
+✨ Criando projetos para aprimorar minhas habilidades e compartilhar minha jornada  
 
 
 ###
@@ -69,11 +69,11 @@
 
 📂 Repositório de Projetos:
 
-✨ **Frontend**: Designs e interfaces com HTML, CSS e JavaScript.  
-🎯 **Python**: Projetos e desafios em Python.  
-📚 **SQL**: Consultas e banco de dados.  
-🧠 **Desafios**: Exercícios para melhorar habilidades de código.  
-💜 **Aprendizado**: Anotações e mini-projetos.  
+✨ **Frontend**: Designs e interfaces com HTML, CSS e JavaScript  
+🎯 **Python**: Projetos e desafios em Python  
+📚 **SQL**: Consultas e banco de dados  
+🧠 **Desafios**: Exercícios para melhorar habilidades de código  
+💜 **Aprendizado**: Anotações e mini-projetos  
 
 
 ###
