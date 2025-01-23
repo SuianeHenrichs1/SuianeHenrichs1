@@ -20,18 +20,30 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BC47F7&background=FF56FF00&center=true&width=435&lines=Aspiring+Full-Stack+Developer+%F0%9F%9A%80)](https://git.io/typing-svg)
 <div align="center">
-  <img height="200" src="https://i.imgur.com/ck6HMiy.jpg"  />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BC47F7&background=FF56FF00&center=true&width=435&lines=Aspiring+Full-Stack+Developer+%F0%9F%9A%80" />
+  </a>
+  <br>
+  <img height="200" src="https://i.imgur.com/ck6HMiy.jpg" />
 </div>
 
-###
 
-<p align="left">👋 Hi, I'm Suiane Henrichs!<br><br>🌍 I'm from Rio de Janeiro, Brazil.<br><br>🎓 I'm currently pursuing a degree in Information Systems.<br>💻 Aspiring Full-Stack Developer, learning and growing every day.<br>🎯 Focused on HTML, CSS, JavaScript, Git, and Web Development.<br>🛠️ Building projects to develop my skills and showcase my journey.</p>
 
 ###
 
-<h2 align="center">🛠 Language and tools</h2>
+## 👋 Olá, eu sou a Suiane Henrichs!  
+
+🌍 Sou do Rio de Janeiro, Brasil.  
+🎓 Estudante de **Sistemas de Informação**.  
+⚡ Aspirante a **Desenvolvedora Full-Stack**, com interesse também em **Desenvolvimento de Software**.  
+🎯 Focada em **HTML, CSS, JavaScript, Python, Git e Web Development**.  
+✨ Criando projetos para aprimorar minhas habilidades e compartilhar minha jornada.  
+
+
+###
+
+<h2 align="center">🛠 Linguagens e Ferramentas</h2>
 
 ###
 
@@ -55,7 +67,14 @@
 
 ###
 
-<p align="left">📂 This repository is a collection of my projects.<br><br>🎨 Frontend Projects: Creative designs and functional interfaces using HTML, CSS, and JavaScript.<br>🧩 Code Challenges: Small coding exercises to improve problem-solving skills.<br>📖 Learning Logs: Notes and mini-projects documenting my learning process.</p>
+📂 Repositório de Projetos:
+
+✨ **Frontend**: Designs e interfaces com HTML, CSS e JavaScript.  
+🎯 **Python**: Projetos e desafios em Python.  
+📚 **SQL**: Consultas e banco de dados.  
+🧠 **Desafios**: Exercícios para melhorar habilidades de código.  
+💜 **Aprendizado**: Anotações e mini-projetos.  
+
 
 ###
 
