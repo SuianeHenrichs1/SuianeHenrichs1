@@ -55,7 +55,7 @@
 
 ###
 
-<p align="left">📂 This repository is a collection of my projects, exercises, and experiments as I progress in my career as a developer. Some of the things you'll find:<br><br>🎨 Frontend Projects: Creative designs and functional interfaces using HTML, CSS, and JavaScript.<br>🧩 Code Challenges: Small coding exercises to improve problem-solving skills.<br>📖 Learning Logs: Notes and mini-projects documenting my learning process.</p>
+<p align="left">📂 This repository is a collection of my projects.<br><br>🎨 Frontend Projects: Creative designs and functional interfaces using HTML, CSS, and JavaScript.<br>🧩 Code Challenges: Small coding exercises to improve problem-solving skills.<br>📖 Learning Logs: Notes and mini-projects documenting my learning process.</p>
 
 ###
 
