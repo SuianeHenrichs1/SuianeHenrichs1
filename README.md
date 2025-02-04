@@ -24,7 +24,7 @@
 
 <br clear="both">
 
-<img align="right" height="475" src="https://i.imgur.com/C4BmKgw.png"  />
+<img align="right" height="470" src="https://i.imgur.com/C4BmKgw.png"  />
 
 ###
 
@@ -73,6 +73,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SuianeHenrichs1&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="135" alt="languages graph"  />
 </div>
 
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SuianeHenrichs1.SuianeHenrichs1&left_color=violet&right_color=cornflowerblue"  />
+</div>
+
+###
 ###
 
 <div align="center">
