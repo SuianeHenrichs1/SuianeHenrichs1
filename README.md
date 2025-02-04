@@ -64,19 +64,13 @@
 
 ###
 
-<h3 align="left">Status 📚</h3>
 
-###
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SuianeHenrichs1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="135" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SuianeHenrichs1&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="135" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SuianeHenrichs1.SuianeHenrichs1&left_color=violet&right_color=cornflowerblue"  />
 </div>
 
 ###
