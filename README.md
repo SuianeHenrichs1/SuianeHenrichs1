@@ -32,7 +32,7 @@
 
 ###
 
-<h2 align="center">🛠 Linguagens e Ferramentas</h2>
+<h3 align="left">🛠 Linguagens e Ferramentas</h3>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<h2 align="center">Repositório de Projetos 🚀</h2>
+<h3 align="left">Repositório de Projetos 🚀</h3>
 
 ###
 
