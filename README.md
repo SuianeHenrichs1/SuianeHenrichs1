@@ -28,11 +28,11 @@
 
 ###
 
-<p align="left">🌍 Sou do Rio de Janeiro, Brasil<br>🎓 Estudante de Sistemas de Informação<br>⚡ Aspirante a Full-Stack com interesse em Desenvolvimento Web e Software<br>🎯 Foco em HTML, CSS, JavaScript, Python<br>✨ Criando projetos para aprimorar minhas habilidades</p>
+<h3 align="left">🛠 Linguagens e Ferramentas</h3>
 
 ###
 
-<h3 align="left">🛠 Linguagens e Ferramentas</h3>
+<p align="left">🌍 Sou do Rio de Janeiro, Brasil<br>🎓 Estudante de Sistemas de Informação<br>⚡ Aspirante a Full-Stack com interesse em Desenvolvimento Web e Software<br>🎯 Foco em HTML, CSS, JavaScript, Python<br>✨ Criando projetos para aprimorar minhas habilidades</p>
 
 ###
 
@@ -61,6 +61,10 @@
 ###
 
 <p align="left">✨ Frontend : Designs e interfaces com HTML, CSS e JavaScript<br>🎯 Python : Projetos e desafios em Python<br>📚 SQL : Consultas e banco de dados<br>🧠 Desafios : Exercícios para melhorar habilidades de código<br>💜 Aprendizado : Anotações e mini-projetos</p>
+
+###
+
+<h3 align="left">Status 📚</h3>
 
 ###
 
