@@ -9,7 +9,7 @@
 
 ###
 
-<h2 align="center">🌟 Welcome to My GitHub!</h2>
+<h2 align="center"> Welcome to My GitHub!</h2>
 
 ###
 
