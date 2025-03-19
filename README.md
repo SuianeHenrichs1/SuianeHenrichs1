@@ -74,11 +74,11 @@
 ###
 
 <p align="left">
-- <b>Frontend</b> - Designs e interfaces com HTML, CSS e JavaScript<br>
-- <b>Python</b> - Projetos e desafios em Python<br>
-- <b>SQL</b> - Consultas e banco de dados<br>
-- <b>Desafios</b> - Exercícios para melhorar habilidades de código<br>
-- <b>Aprendizado</b> - Anotações e mini-projetos
+ <b>Frontend</b> - Designs e interfaces com HTML, CSS e JavaScript<br>
+ <b>Python</b> - Projetos e desafios em Python<br>
+ <b>SQL</b> - Consultas e banco de dados<br>
+ <b>Desafios</b> - Exercícios para melhorar habilidades de código<br>
+ <b>Aprendizado</b> - Anotações e mini-projetos
 </p>
 
 
