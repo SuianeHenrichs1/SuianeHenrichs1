@@ -92,9 +92,6 @@
 <p align="left"> Atualmente estou participando dos seguintes bootcamps e programas de capacitação:</p>
 
 
-<br clear="both">
-
-<img align="left" height="200" src="https://t.ctcdn.com.br/TL0XHryhlyLbnkpYdb6CDodQJKE=/900x675/smart/i645315.jpeg"  />
 
 <div align="left">
  📊 <b>&lt;Hello, ONE!&gt; </b> - Programa da Oracle + Alura com formação em Data Science e Análise de Dados<br>
