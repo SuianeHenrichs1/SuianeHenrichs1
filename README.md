@@ -73,9 +73,31 @@
 
 ###
 
-<p align="left">✨ Frontend : Designs e interfaces com HTML, CSS e JavaScript<br>🎯 Python : Projetos e desafios em Python<br>📚 SQL : Consultas e banco de dados<br>🧠 Desafios : Exercícios para melhorar habilidades de código<br>💜 Aprendizado : Anotações e mini-projetos</p>
+<p align="left">
+- <b>Frontend</b> - Designs e interfaces com HTML, CSS e JavaScript<br>
+- <b>Python</b> - Projetos e desafios em Python<br>
+- <b>SQL</b> - Consultas e banco de dados<br>
+- <b>Desafios</b> - Exercícios para melhorar habilidades de código<br>
+- <b>Aprendizado</b> - Anotações e mini-projetos
+</p>
+
 
 ###
+
+###
+###
+
+## <h3 align="left"> Bootcamps e Programas </h3>
+
+<p align="left"> Atualmente estou participando dos seguintes bootcamps e programas de capacitação:</p>
+<div align="left">
+ 📊 <b><Hello, ONE /> Oracle + Alura</b> - Formação em Data Science e Análise de Dados<br>
+ 🎓 <b>DIO Campus Expert</b> - Programa de Embaixadores da <a href="https://www.dio.me">Digital Innovation One</a><br>
+ ☕ <b>Bootcamp Java Developer</b> - Formação em desenvolvimento backend com Java pela <a href="https://www.dio.me">DIO</a><br>
+ ☁ <b>Bootcamp AWS Cloud Fundamentals</b> - Aprendizado sobre computação em nuvem na <a href="https://www.dio.me">DIO</a><br>
+ 💻 <b>Bootcamp Java Matera</b> - Formação em Java pela <a href="https://www.matera.com">Matera</a><br>
+</div>
+
 
 <h3 align="left"> Status  </h3>
 
@@ -85,6 +107,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SuianeHenrichs1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="135" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SuianeHenrichs1&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="135" alt="languages graph"  />
 </div>
+
 
 ###
 ###
