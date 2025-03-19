@@ -1,5 +1,5 @@
 
-  ![Welcome!](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Welcome&animation=fadeIn&gradientColors=FF69B4,8A2BE2)
+  ![Welcome](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Welcome!&animation=fadeIn&gradientColors=FF69B4,8A2BE2)
 
 
 
