@@ -99,7 +99,7 @@
  🎓 <b>DIO Campus Expert</b> - Programa de Embaixadores da <a href="https://www.dio.me">Digital Innovation One</a><br>
  ☕ <b>Bootcamp Java Developer</b> - Formação em desenvolvimento backend com Java pela <a href="https://www.dio.me">DIO</a><br>
  ☁ <b>Bootcamp AWS Cloud Fundamentals</b> - Aprendizado sobre computação em nuvem na <a href="https://www.dio.me">DIO</a><br>
- 💻 <b>Bootcamp Java Matera</b> - Formação em Java pela <a href="https://www.matera.com">Matera</a><br>
+ 
 </div>
 
 
