@@ -2,11 +2,9 @@
 ![Welcome](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Welcome&animation=fadeIn&gradientColors=B993D6,8CA6DB)
 
 
-
-
 ###
 
-<h2 align="center"> Olá, eu sou a Suiane Henrichs!</h2>
+<h2 align="center">&lt;Olá, eu sou a Suiane Henrichs!/&gt;</h2>
 
 ###
 
