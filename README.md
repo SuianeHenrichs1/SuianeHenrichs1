@@ -92,6 +92,7 @@
 <p align="left"> Atualmente estou participando dos seguintes bootcamps e programas de capacitação:</p>
 <div align="left">
  📊 <b>&lt;Hello, ONE!&gt; </b> - Programa da Oracle + Alura com formação em Data Science e Análise de Dados<br>
+ 📈 <b>EY Empodera [Eu Capacito]</b> - Programa da Ernst & Young em parceria com a Fiap com trilha em Dados<br>
  🎓 <b>DIO Campus Expert</b> - Programa de Embaixadores da <a href="https://www.dio.me">Digital Innovation One</a><br>
  ☕ <b>Bootcamp Java Developer</b> - Formação em desenvolvimento backend com Java pela <a href="https://www.dio.me">DIO</a><br>
  ☁ <b>Bootcamp AWS Cloud Fundamentals</b> - Aprendizado sobre computação em nuvem na <a href="https://www.dio.me">DIO</a><br>
