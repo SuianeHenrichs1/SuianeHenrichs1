@@ -1,3 +1,10 @@
+
+  ![Welcome!](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Welcome&animation=fadeIn&gradientColors=FF69B4,8A2BE2)
+
+
+
+
+
 <div align="center">
   <a href="suianehenrichs@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
@@ -9,7 +16,7 @@
 
 ###
 
-<h2 align="center"> Welcome to My GitHub!</h2>
+<h2 align="center"> Olá, eu sou a Suiane Henrichs!</h2>
 
 ###
 
@@ -19,7 +26,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BC47F7&background=FF56FF00&center=true&width=435&lines=Aspiring+Full-Stack+Developer+%F0%9F%9A%80" />
   </a>
 
-  <h3 align="left">Olá, eu sou a Suiane Henrichs!</h3>
 
 
 ###
