@@ -1,18 +1,8 @@
 
-  ![Welcome](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Welcome!&animation=fadeIn&gradientColors=FF69B4,8A2BE2)
+![Welcome](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Welcome&animation=fadeIn&gradientColors=B993D6,8CA6DB)
 
 
 
-
-
-<div align="center">
-  <a href="suianehenrichs@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/suianehenrichs/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
-  </a>
-</div>
 
 ###
 
@@ -111,14 +101,26 @@
 
 <h3 align="center"> Status  </h3>
 
-
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SuianeHenrichs1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="135" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SuianeHenrichs1&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="135" alt="languages graph"  />
 </div>
 
 
+###
+###
+###
+
+<div align="center">
+  <a href="suianehenrichs@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/suianehenrichs/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
 ###
 ###
 
