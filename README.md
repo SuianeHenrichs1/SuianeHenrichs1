@@ -99,7 +99,7 @@
 </div>
 
 
-<h3 align="left"> Status  </h3>
+<h3 align="center"> Status  </h3>
 
 
 
