@@ -32,7 +32,7 @@
 
 
 
-<p align="left">🌍 Sou do Rio de Janeiro, Brasil<br>🎓 Estudante de Sistemas de Informação<br>⚡ Aspirante a Full-Stack com interesse em Desenvolvimento Web e Software<br>🎯 Foco em HTML, CSS, JavaScript, Python<br>✨ Criando projetos para aprimorar minhas habilidades</p>
+<p align="left">🌍 Sou do Rio de Janeiro, Brasil<br>🎓 Estudante de Sistemas de Informação<br>⚡ Aspirante a Full-Stack com interesse em Desenvolvimento Web e Software<br>🎯 Foco em HTML, CSS, JavaScript, Python e Java<br>✨ Criando projetos para aprimorar minhas habilidades</p>
 
 ###
 
