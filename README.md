@@ -14,17 +14,21 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BC47F7&background=FF56FF00&center=true&width=435&lines=Aspiring+Full-Stack+Developer" />
   </a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/suianehenrichs">
-    <img src="https://i.imgur.com/l9jOI8P.png" alt="LinkedIn"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/suianehenrichs" style="text-decoration: none; outline: none; border: none;">
+    <img src="https://imgur.com/jKkNHgw.png" alt="LinkedIn" style="border: none; outline: none; margin-right: 15px;" />
   </a>
-  <a href="https://www.tiktok.com/@s.henrichs.tech">
-    <img src="https://i.imgur.com/GSfDQtn.png" alt="TikTok"/>
+  <a href="https://www.tiktok.com/@s.henrichs.tech" style="text-decoration: none; outline: none; border: none;">
+    <img src="https://imgur.com/bNwVY6P.png" alt="TikTok" style="border: none; outline: none; margin-right: 15px;" />
   </a>
-  <a href="mailto:suianehenrichs@gmail.com">
-    <img src="https://i.imgur.com/t12lZgE.png" alt="E-mail"/>
+  <a href="mailto:suianehenrichs@gmail.com" style="text-decoration: none; outline: none; border: none;">
+    <img src="https://imgur.com/s3EST1a.png" alt="E-mail" style="border: none; outline: none;" />
   </a>
-</p>
+</div>
+
+
+
+
 
 
 ###
