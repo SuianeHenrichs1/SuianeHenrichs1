@@ -14,6 +14,19 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BC47F7&background=FF56FF00&center=true&width=435&lines=Aspiring+Full-Stack+Developer+%F0%9F%9A%80" />
   </a>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/suianehenrichs">
+    <img src="https://i.imgur.com/l9jOI8P.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.tiktok.com/@s.henrichs.tech">
+    <img src="https://i.imgur.com/GSfDQtn.png" alt="TikTok"/>
+  </a>
+  <a href="mailto:suianehenrichs@gmail.com">
+    <img src="https://i.imgur.com/t12lZgE.png" alt="E-mail"/>
+  </a>
+</p>
+
+
 
 
 ###
