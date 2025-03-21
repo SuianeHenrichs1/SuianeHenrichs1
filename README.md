@@ -129,3 +129,7 @@
 </div>
 
 ###
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=18&section=footer)
+
+
