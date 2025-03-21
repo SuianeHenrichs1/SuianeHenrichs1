@@ -10,9 +10,7 @@
 
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BC47F7&background=FF56FF00&center=true&width=435&lines=Aspiring+Full-Stack+Developer" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F736CA&background=FF56FF00&center=true&width=435&lines=Aspiring+Full-Stack+Developer+" alt="Typing SVG" /></a>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/suianehenrichs" style="text-decoration: none; outline: none; border: none;">
