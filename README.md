@@ -18,10 +18,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/suianehenrichs" style="text-decoration: none; outline: none; border: none;">
-    <img src="https://imgur.com/jKkNHgw.png" alt="LinkedIn" style="border: none; outline: none; margin-right: 15px;" />
+    <img src="https://imgur.com/jKkNHgw.png" alt="LinkedIn" style="border: none; outline: none; margin-right: 40px;" />
   </a>
   <a href="https://www.tiktok.com/@s.henrichs.tech" style="text-decoration: none; outline: none; border: none;">
-    <img src="https://imgur.com/bNwVY6P.png" alt="TikTok" style="border: none; outline: none; margin-right: 17px;" />
+    <img src="https://imgur.com/bNwVY6P.png" alt="TikTok" style="border: none; outline: none; margin-right: 42px;" />
   </a>
   <a href="mailto:suianehenrichs@gmail.com" style="text-decoration: none; outline: none; border: none;">
     <img src="https://imgur.com/s3EST1a.png" alt="E-mail" style="border: none; outline: none;" />
